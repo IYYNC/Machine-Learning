@@ -36,6 +36,6 @@ While this repository primarily serves as a personal documentation of my learnin
 ### Connect with Me
 I'm always looking to connect with fellow data enthusiasts and professionals. Here are some ways you can reach out to me:
 
-LinkedIn: https://www.linkedin.com/in/ianchenyyc/
-Email: ianchen007007@gmail.com
+- LinkedIn: https://www.linkedin.com/in/ianchenyyc/
+- Email: ianchen007007@gmail.com
 Thank you for visiting my machine learning portfolio. I hope it serves as a source of inspiration or resource for your own learning journey in this exciting field.
